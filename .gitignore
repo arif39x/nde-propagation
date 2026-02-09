@@ -1,0 +1,13 @@
+!Project.toml
+!Manifest.toml
+
+/Manifest.toml.bak
+/packages/
+/compiled/
+
+/plots/*.png
+/plots/*.pdf
+/data/malware_data_generated.csv
+
+.DS_Store
+Thumbs.db
